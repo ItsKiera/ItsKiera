@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ciara
-- 👀 I’m interested in ... blockchain technology, cryptocurrency, and embedded systems.
-- 🌱 I’m currently learning ... Java, and C/C++
-- 💞️ I’m looking to collaborate on ... [LinkedIn](https://www.linkedin.com/in/ciara-morrissey-07b437195/)
+- 👀 I’m interested in ... data science.
+- 🌱 I’m currently learning ... SQLite
 
 ### Languages and Tools
 <img align = "left" alt = "Java" width = "36px" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" />
