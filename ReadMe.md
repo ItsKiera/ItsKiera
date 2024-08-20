@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ciara
 - 👀 I’m interested in ... data science.
-- 🌱 I’m currently learning ... SQL
+- 🌱 I’m currently learning ... SQL and Python
 
 ### Languages and Tools
 <img align = "left" alt = "SQL" width = "36px" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"/> 
