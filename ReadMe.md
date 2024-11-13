@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ciara
-- 👀 I’m interested in ... data science.
+- 👀 I’m interested in ... data analysis, and data enginnering.
 - 🌱 I’m currently learning ... SQL and Python
 
 ### Languages and Tools
