@@ -12,4 +12,14 @@
   <li><p><b>Tools:</b> PowerBI, Excel, MS SQL Server, PostgreSQL</p></li>
 </ul>
 
+<h3>GitHub Projects</h3>
 
+<!-- START OF PROFILE STACK -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | |
+| [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) | |
+| [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) | |
+<!-- END OF PROFILE STACK -->
+
+<h3>Latest Blog Posts</h3>
