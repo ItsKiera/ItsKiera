@@ -23,3 +23,4 @@
 <!-- END OF PROFILE STACK -->
 
 <h3>Latest Blog Posts</h3>
+[Analysing Global Terrisom 2000-2017](https://medium.com/@unconventionaldata/analysing-global-terrorism-2000-2017-targets-methods-and-impacts-f5e5e0a55bce)
